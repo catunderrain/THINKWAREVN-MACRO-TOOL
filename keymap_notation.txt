@@ -1,0 +1,6 @@
+This file note for the file keymap.png. Keymap.png is an image describes which keys is used, or blocked (block for preventing unwanted effects).
+Here is how the keys noted:
+
+RED		: blocked key
+GREEN	: used key
+LINE	: combo

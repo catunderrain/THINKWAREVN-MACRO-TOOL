@@ -1,0 +1,35 @@
+This file introduce the keys function.
+
+Key			Function
+-----------------------------------------------------------------------------------------------
+`			get position	: for debugging
+1,2,3,4,5,6	car direction
+0			direction None
+7,8,9		color of sign	: blue - yellow - red
+-			switch mode	: main/break
+=			increase sleep time	: (base) 0.1 - 0.15 - 0.2 - 0.25 - 0.3
+q,e			backward/forward images + auto save
+w,a,s,d		movements
+r			like ctrl+E
+t,ctrl+t		stopline, crosswalk
+y,ctrl+y		draw combo of plate 1-3 for green/red light
+u,i,o,p		shape of lightplate	: 3-1, 1-3, 3-2, 2-3
+[,]			draw box of green/red light
+ctrl + [/]		change label to green/red light
+\			exit tool (just usable in MODE main)
+f,g,h,j,k		5 direction of arrow (left, forward left, forward, forward right, right)
+l			traffic cone label
+'			draw box of lightplate (with base shape 1-3)
+ctrl+'			label to lightplate
+z			like ctrl+z
+x			visible/invisible all labels (like press T)
+ctrl+x		label Heavy
+c			car
+alt+c			draw box of car
+v			truck
+b			bus
+n			pedestrian
+m			rider
+,			motobike
+.			bicycle
+space		zoom back to fit screen
