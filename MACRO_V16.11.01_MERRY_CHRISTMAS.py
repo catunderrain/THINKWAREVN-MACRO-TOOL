@@ -11,7 +11,7 @@ def introduction():
     ║                       WELCOME TO THE MACRO LABEL TOOL                  ║
     ║                Conceptualized, Developed, and Perfected by             ║
     ║                              NGUYEN THAI TOAN                          ║
-    ║                           Version: v16.11 - 2024                       ║
+    ║                         Version: v16.11.01 - 2024                      ║
     ║                              CHRISTMAS EDITION                         ║
     ║                                                                        ║
     ║        "This is not just a tool. It’s a vision brought to life."       ║
