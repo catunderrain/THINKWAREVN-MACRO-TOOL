@@ -19,6 +19,7 @@ ctrl + [/]		change label to green/red light
 \			exit tool (just usable in MODE main)
 f,g,h,j,k		5 direction of arrow (left, forward left, forward, forward right, right)
 l			traffic cone label
+;           stop sign
 '			draw box of lightplate (with base shape 1-3)
 ctrl+'			label to lightplate
 z			like ctrl+z
@@ -32,4 +33,5 @@ n			pedestrian
 m			rider
 ,			motobike
 .			bicycle
+/           curve
 space		zoom back to fit screen
