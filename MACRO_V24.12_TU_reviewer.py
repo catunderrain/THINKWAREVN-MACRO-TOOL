@@ -429,7 +429,7 @@ def main():
         elif keyboard.is_pressed        ('x'):
             alt('3'); slp(2)
         elif keyboard.is_pressed        ('c'):
-            alt('4'); slp()
+            alt('3'); slp(); press('t'); slp()
         elif keyboard.is_pressed        ('v'):
             alt('5'); slp()
         elif keyboard.is_pressed        ('b'):
